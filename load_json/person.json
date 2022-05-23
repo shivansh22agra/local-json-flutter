@@ -1,0 +1,29 @@
+[
+    {
+        "name" : "shivansh",
+        "age" : "18",
+        "gender" : "male"
+
+    },
+    { 
+        "name" : "lokesh",
+        "age" : "20",
+        "gender" : "male"
+    },
+    {
+       "name" : "divyam",
+       "age" : "20",
+       "gender": "male"
+    },
+    {
+        "name" : "prakhar",
+        "age" : "20",
+        "gender" : "male"
+
+    },
+    {  "name" : "miyam",
+        "age" : "20",
+        "gender" : "male"
+    }
+
+]
